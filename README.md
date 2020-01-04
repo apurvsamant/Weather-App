@@ -4,7 +4,7 @@ This project uses React and Open Map Weather API to flush out the Weather detail
 # Usage
 ```
 $ npm install
-$ npm run dev
+$ npm start
 ```
 
 Visit: http://localhost:3000
